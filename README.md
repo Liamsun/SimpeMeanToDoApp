@@ -14,7 +14,7 @@ A simple app built with MEAN Stack.
 3. Start the server: `npm run dev`
 4. View in browser at `http://localhost:8080`
 
-## Tutorial Series
+## Details
 
 More Details in the link below.
 - [Angular 2 - Mean Stack 2.0 - Building full app with Express js and Angulari](https://www.youtube.com/watch?v=AgUZJ96qF9U)
