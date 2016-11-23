@@ -11,8 +11,9 @@ A simple app built with MEAN Stack.
 
 1. Clone the repository: `git clone git@github.com:Liamsun/SimpeMeanToDoApp.git`
 2. Install the application: `npm install`
-3. Start the server: `npm run dev`
-4. View in browser at `http://localhost:8080`
+3. Start the mongodb server: `mongod`
+4. Start the node server: `npm run dev`
+5. View in browser at `http://localhost:8080`
 
 ## Details
 
